@@ -1,0 +1,73 @@
+[
+    {
+        "title": "cafe",
+        "precio": 500,
+        "id": 1,
+        "url": "https://picsum.photos/id/0/000"
+    },
+
+    {
+        "title": "azucar",
+        "precio": 500,
+        "id": 2,
+        "url": "https://picsum.photos/id/1/000"
+    },
+
+    {
+        "title": "sal",
+        "precio": 500,
+        "id": 3,
+        "url": "https://picsum.photos/id/2/000"
+    },
+
+    {
+        "title": "sello rojo",
+        "precio": 500,
+        "id": 4,
+        "url": "https://picsum.photos/id/3/000"
+    },
+
+    {
+        "title": "Lala",
+        "precio": 500,
+        "id": 4,
+        "url": "https://picsum.photos/id/4/000"
+    },
+
+    {
+        "title": "Pepsi",
+        "precio": 500,
+        "id": 5,
+        "url": "https://picsum.photos/id/5/000"
+    },
+
+    {
+        "title": "Seven up",
+        "precio": 500,
+        "id": 6,
+        "url": "https://picsum.photos/id/6/000"
+    },
+
+    {
+        "title": "Mirinda",
+        "precio": 500,
+        "id": 7,
+        "url": "https://picsum.photos/id/7/000"
+    },
+
+    {
+        "title": "Sprite",
+        "precio": 500,
+        "id": 8,
+        "url": "https://picsum.photos/id/8/000"
+    },
+
+    {
+        "title": "Corona",
+        "precio": 500,
+        "id": 9,
+        "url": "https://picsum.photos/id/9/000"
+    }
+
+
+]
